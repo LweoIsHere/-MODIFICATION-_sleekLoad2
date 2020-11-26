@@ -172,7 +172,7 @@ var l_bgImagesRandom = true;
 
 // in milliseconds
 
-var l_bgImageDuration = 6000;
+var l_bgImageDuration = 4000;
 
 
 
