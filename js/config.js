@@ -306,7 +306,7 @@ var l_messagesDelay = 5000;
 
 // in milliseconds
 
-var l_messagesFade = 3000;
+var l_messagesFade = 1750;
 
 
 
