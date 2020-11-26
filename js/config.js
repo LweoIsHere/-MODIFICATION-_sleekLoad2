@@ -298,7 +298,7 @@ var l_messagesRandom = true;
 
 // in milliseconds
 
-var l_messagesDelay = 2000;
+var l_messagesDelay = 5000;
 
 
 
@@ -306,7 +306,7 @@ var l_messagesDelay = 2000;
 
 // in milliseconds
 
-var l_messagesFade = 1000;
+var l_messagesFade = 3000;
 
 
 
