@@ -235,6 +235,12 @@ var l_musicPlaylist = [
 	{youtube: "https://www.youtube.com/watch?v=3VTwbEWW2W8", name: "Tea for Two"},
 
 	{youtube: "https://www.youtube.com/watch?v=VaDN_19rPyw", name: "Voile, the Magic Library"},
+	
+	{youtube: "https://youtu.be/WS6Ien9YUiI", name: "【東方ボーカル】 「ニヒル神楽」 【幽閉サテライト】【Subbed】"},
+	
+	{youtube: "https://youtu.be/ukB5iSm_Zh4", name: "【東方ボーカル】 「夜ノ花～凪～」 【幽閉サテライト】【Subbed】"},
+	
+	{youtube: "https://www.youtube.com/watch?v=OUN0squmKD8", name: "【東方ボーカル】 「月の歌」 【凋叶棕】"},
 
 ];
 
