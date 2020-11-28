@@ -172,7 +172,7 @@ var l_bgImagesRandom = true;
 
 // in milliseconds
 
-var l_bgImageDuration = 4000;
+var l_bgImageDuration = 5000;
 
 
 
@@ -182,7 +182,7 @@ var l_bgImageDuration = 4000;
 
 // in milliseconds
 
-var l_bgImageFadeVelocity = 2000;
+var l_bgImageFadeVelocity = 2500;
 
 
 
@@ -237,7 +237,12 @@ var l_musicPlaylist = [
 	{youtube: "https://youtu.be/ukB5iSm_Zh4", name: "【東方ボーカル】 「夜ノ花～凪～」 【幽閉サテライト】【Subbed】"},
 	
 	{youtube: "https://www.youtube.com/watch?v=OUN0squmKD8", name: "【東方ボーカル】 「月の歌」 【凋叶棕】"},
+	
+	{youtube: "https://www.youtube.com/watch?v=qiK1vfmDIS8", name: "【東方Vocal】Season 4 you【森羅万象】"},
 
+	{youtube: "https://www.youtube.com/watch?v=d-aevL49-po", name: "ᴴᴰ⁶⁰【東方Vocal】紺碧Studio｜Doubt & Trust【中日English附詞】【PV】"},
+	
+	{youtube: "https://www.youtube.com/watch?v=9VcJopvvOhs", name: "ᴴᴰ⁶⁰【東方Vocal】Yonder Voice｜星月トラジコメディー【中日English附詞】【PV】"},
 ];
 
 
@@ -283,6 +288,12 @@ var l_messages = [
 	"lweo was here i think ><",
 	
 	"fwumo actually had a family, but then someone did something to them and fwumo got depressed.. ",
+	
+	"YOU SHOULD PAT LWEO",
+	
+	"some people hated headpats when they're just the best..",
+	
+	"TOO LEWD ><",
 
 ];
 
