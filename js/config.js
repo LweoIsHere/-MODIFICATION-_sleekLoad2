@@ -206,7 +206,7 @@ var l_bgDarkening = 50;
 
 // 'true' or 'false'
 
-var l_music = true;
+var l_music = false;
 
 
 
@@ -225,7 +225,7 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 
 // (You can also use external URL for the ogg files)
-
+// HAD TO REMOVE MUSIC BECAUSE KWELS HATED THE MUSIC, CRIED!
 var l_musicPlaylist = [
 
 	{ogg: "lullaby.ogg", name: "Lullaby of Deserted Hell"},
