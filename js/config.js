@@ -238,9 +238,9 @@ var l_musicDisplay = true;
 // HAD TO REMOVE MUSIC BECAUSE KWELS HATED THE MUSIC, CRIED!
 var l_musicPlaylist = [
 
-	{ogg: "lullaby.ogg", name: "Lullaby of Deserted Hell"},
+//	{ogg: "lullaby.ogg", name: "Lullaby of Deserted Hell"},
 
-	{ogg: "falls_in_fall.ogg", name: "秋に舞う椛と滝飛沫"},
+//	{ogg: "falls_in_fall.ogg", name: "秋に舞う椛と滝飛沫"},
 	
 	{youtube: "https://youtu.be/WS6Ien9YUiI", name: "【東方ボーカル】 「ニヒル神楽」 【幽閉サテライト】【Subbed】"},
 	
@@ -253,6 +253,14 @@ var l_musicPlaylist = [
 	{youtube: "https://www.youtube.com/watch?v=d-aevL49-po", name: "ᴴᴰ⁶⁰【東方Vocal】紺碧Studio｜Doubt & Trust【中日English附詞】【PV】"},
 	
 	{youtube: "https://www.youtube.com/watch?v=9VcJopvvOhs", name: "ᴴᴰ⁶⁰【東方Vocal】Yonder Voice｜星月トラジコメディー【中日English附詞】【PV】"},
+	
+	{youtube: "https://youtu.be/uK7i0gE7sd4", name: "To see the future - LLENN (Tomori Kusunoki) Full version"},
+	
+	{youtube: "https://youtu.be/c23W5sNxNO4", name: "Nekopara 2020 OP Full -「Shiny Happy Days」"},
+	
+	{youtube: "https://youtu.be/WetLWga9BEs", name: "Nekopara 2020 ED Full -「Hidamari no Kaori」by Chocola & Vanilla"},
+	
+	{youtube: "https://youtu.be/zX4yy7wdrTQ", name: "Sword Art Online Alternative Gun Gale Online Opening Ryuusei Eir Aoi Full"},
 ];
 
 
