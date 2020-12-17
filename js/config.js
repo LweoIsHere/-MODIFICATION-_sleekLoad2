@@ -216,7 +216,7 @@ var l_bgDarkening = 50;
 
 // 'true' or 'false'
 
-var l_music = false;
+var l_music = true;
 
 
 
