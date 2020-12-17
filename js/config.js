@@ -261,6 +261,8 @@ var l_musicPlaylist = [
 	{youtube: "https://youtu.be/WetLWga9BEs", name: "Nekopara 2020 ED Full -「Hidamari no Kaori」by Chocola & Vanilla"},
 	
 	{youtube: "https://youtu.be/zX4yy7wdrTQ", name: "Sword Art Online Alternative Gun Gale Online Opening Ryuusei Eir Aoi Full"},
+	
+	{youtube: "https://youtu.be/aEItbMDB3jQ", name: "SWEET×SWEET (From Nekopara)"},
 ];
 
 
