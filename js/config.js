@@ -1,14 +1,14 @@
-//       _           _    _                     _ 
 
-//      | |         | |  | |                   | |
+//[[
 
-//   ___| | ___  ___| | _| |     ___   __ _  __| |
-
-//  / __| |/ _ \/ _ \ |/ / |    / _ \ / _` |/ _` |
-
-//  \__ \ |  __/  __/   <| |___| (_) | (_| | (_| |
-
-//  |___/_|\___|\___|_|\_\______\___/ \__,_|\__,_|
+ // _                    _           _          __  __       
+ //| |                  ( )         | |        / _|/ _|      
+ //| |_      _____  ___ |/ ___   ___| |_ _   _| |_| |_ _   _ 
+ //| \ \ /\ / / _ \/ _ \  / __| / __| __| | | |  _|  _| | | |
+ //| |\ V  V /  __/ (_) | \__ \ \__ \ |_| |_| | | | | | |_| |
+ //|_| \_/\_/ \___|\___/  |___/ |___/\__|\__,_|_| |_|  \__, |
+   //                                                   __/ |
+     //                                                |___/ 
 
 //     version 2.16
 
@@ -160,7 +160,17 @@ var l_bgImages = [
 	
 "touhou07.jpg",
 	
-"touhou08.jpg"
+"touhou08.jpg",
+	
+"touhou09.jpg",
+	
+"touhou10.jpg",
+	
+"touhou11.png",
+	
+"touhou12.png",
+	
+"touhou13.jpg",
 
 ];
 
@@ -305,7 +315,7 @@ var l_messages = [
 
 	"CIRNO",
 	
-	"lweo was here i think ><",
+	"lweo was here i think!",
 	
 	"fwumo actually had a family, but then someone did something to them and fwumo got depressed.. ",
 	
@@ -313,7 +323,15 @@ var l_messages = [
 	
 	"some people hated headpats when they're just the best..",
 	
-	"TOO LEWD ><",
+	"o-onii-chan, why are chu so lewdd~",
+	
+	"chill daddyy",
+	
+	"looky! it's a fumo on the street!",
+	
+	"best fwiends are just so great",
+	
+	"i-i seen fumo van then i went in it.. STRANGER GAVE ME A VAN FULL OF FUMO'S! best story"
 
 ];
 
