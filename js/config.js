@@ -245,18 +245,12 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 
 // (You can also use external URL for the ogg files)
-// HAD TO REMOVE MUSIC BECAUSE KWELS HATED THE MUSIC, CRIED!
+
 var l_musicPlaylist = [
 
 //	{ogg: "lullaby.ogg", name: "Lullaby of Deserted Hell"},
 
 //	{ogg: "falls_in_fall.ogg", name: "秋に舞う椛と滝飛沫"},
-	
-	{youtube: "https://youtu.be/WS6Ien9YUiI", name: "【東方ボーカル】 「ニヒル神楽」 【幽閉サテライト】【Subbed】"},
-	
-	{youtube: "https://youtu.be/ukB5iSm_Zh4", name: "【東方ボーカル】 「夜ノ花～凪～」 【幽閉サテライト】【Subbed】"},
-	
-	{youtube: "https://www.youtube.com/watch?v=OUN0squmKD8", name: "【東方ボーカル】 「月の歌」 【凋叶棕】"},
 	
 	{youtube: "https://www.youtube.com/watch?v=qiK1vfmDIS8", name: "【東方Vocal】Season 4 you【森羅万象】"},
 
@@ -273,6 +267,8 @@ var l_musicPlaylist = [
 	{youtube: "https://youtu.be/zX4yy7wdrTQ", name: "Sword Art Online Alternative Gun Gale Online Opening Ryuusei Eir Aoi Full"},
 	
 	{youtube: "https://youtu.be/aEItbMDB3jQ", name: "SWEET×SWEET (From Nekopara)"},
+	
+	{youtube: "https://youtu.be/cTdvMG7MiAg", name: "Silver Forest - toxic"},
 ];
 
 
@@ -289,7 +285,7 @@ var l_musicRandom = true;
 
 // Choose a value between 0 (quietest) and 100 (loudest)
 
-var l_musicVolume = 15;
+var l_musicVolume = 75;
 
 
 
@@ -305,33 +301,23 @@ var l_messagesEnabled = true;
 
 var l_messages = [
 
-	"FUMO!!",
-
-	"why are you not in the fwumo fan club, not real fan..",
-
-	"rawr",
-
-	"reimu best touhou character",
-
-	"CIRNO",
+	"hewwo!",
 	
-	"lweo was here i think!",
+	"i like fumo's a lot >w<",
 	
-	"fwumo actually had a family, but then someone did something to them and fwumo got depressed.. ",
+	"lweo was here",
 	
-	"YOU SHOULD PAT LWEO",
+	"yuyuko is the poggest touhou character",
 	
-	"some people hated headpats when they're just the best..",
+	"chu are secretly a reimu fumo..",
 	
-	"o-onii-chan, why are chu so lewdd~",
+	"wow chu so cou that chu connected to this",
 	
-	"chill daddyy",
+	"give me your huggies now!",
 	
-	"looky! it's a fumo on the street!",
+	"baka",
 	
-	"best fwiends are just so great",
-	
-	"i-i seen fumo van then i went in it.. STRANGER GAVE ME A VAN FULL OF FUMO'S! best story"
+	"POGGIE"
 
 ];
 
