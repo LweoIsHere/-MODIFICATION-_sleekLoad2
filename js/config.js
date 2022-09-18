@@ -301,23 +301,13 @@ var l_messagesEnabled = true;
 
 var l_messages = [
 
-	"hewwo!",
+"i don't know what you're doing here..",
 	
-	"i like fumo's a lot >w<",
+"i love fumo's!",
 	
-	"lweo was here",
+"mm i like sleeping",
 	
-	"yuyuko is the poggest touhou character",
-	
-	"chu are secretly a reimu fumo..",
-	
-	"wow chu so cou that chu connected to this",
-	
-	"give me your huggies now!",
-	
-	"baka",
-	
-	"POGGIE"
+"these messsages are absolutely worthless to read..",
 
 ];
 
